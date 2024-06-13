@@ -1,0 +1,244 @@
+﻿{
+  "list": [
+    {
+      "id": "1-01",
+      "Apartment ID": 101,
+      "Number of Rooms": 5,
+      "Area living room": 110,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 101 suID": "010004",
+      "parking lot A1 suID": "010005"
+    },
+    {
+      "id": "1-02",
+      "Apartment ID": 102,
+      "Number of Rooms": 5,
+      "Area living room": 120,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 102 suID": "010006"
+    },
+    {
+      "id": "1-03",
+      "Apartment ID": 103,
+      "Number of Rooms": 5,
+      "Area living room": 111,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 103 suID": "010007"
+    },
+    {
+      "id": "1-05",
+      "Apartment ID": 105,
+      "Number of Rooms": 5,
+      "Area living room": 130,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 105 suID": "010009"
+    },
+    {
+      "id": "2-01",
+      "Apartment ID": 201,
+      "Number of Rooms": 5,
+      "Area living room": 110,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 201 suID": "010010",
+      "parking lot A2 suID": "010011"
+    },
+    {
+      "id": "2-02",
+      "Apartment ID": 202,
+      "Number of Rooms": 5,
+      "Area living room": 120,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 202 suID": "010012",
+      "parking lot A3 suID": "010013"
+    },
+    {
+      "id": "2-03",
+      "Apartment ID": 203,
+      "Number of Rooms": 5,
+      "Area living room": 111,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 203 suID": "010014",
+      "parking lot A4 suID": "010015"
+    },
+    {
+      "id": "2-04",
+      "Apartment ID": 204,
+      "Number of Rooms": 5,
+      "Area living room": 109,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 204 suID": "010016",
+      "parking lot A5 suID": "010017"
+    },
+    {
+      "id": "2-05",
+      "Apartment ID": 205,
+      "Number of Rooms": 5,
+      "Area living room": 130,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 205 suID": "010018",
+      "parking lot A6 suID": "010019"
+    },
+    {
+      "id": "3-01",
+      "Apartment ID": 301,
+      "Number of Rooms": 5,
+      "Area living room": 110,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 301 suID": "010020",
+      "parking lot A7 suID": "010021"
+    },
+    {
+      "id": "3-02",
+      "Apartment ID": 302,
+      "Number of Rooms": 5,
+      "Area living room": 120,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 302 suID": "010022",
+      "parking lot A8 suID": "010023"
+    },
+    {
+      "id": "3-03",
+      "Apartment ID": 303,
+      "Number of Rooms": 5,
+      "Area living room": 111,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 104 suID": "010008"
+    },
+    {
+      "id": "3-04",
+      "Apartment ID": 304,
+      "Number of Rooms": 5,
+      "Area living room": 109,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 304 suID": "010024",
+      "parking lot A9 suID": "010025"
+    },
+    {
+      "id": "3-05",
+      "Apartment ID": 305,
+      "Number of Rooms": 5,
+      "Area living room": 130,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "Vacant"
+    },
+    {
+      "id": "4-01",
+      "Apartment ID": 401,
+      "Number of Rooms": 5,
+      "Area living room": 110,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 401 suID": "010026"
+    },
+    {
+      "id": "4-02",
+      "Apartment ID": 402,
+      "Number of Rooms": 5,
+      "Area living room": 120,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 402 suID": "010027",
+      "parking lot A10 suID": "010028"
+    },
+    {
+      "id": "4-03",
+      "Apartment ID": 403,
+      "Number of Rooms": 5,
+      "Area living room": 111,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 403 suID": "010029",
+      "parking lot A11 suID": "010030"
+    },
+    {
+      "id": "4-04",
+      "Apartment ID": 404,
+      "Number of Rooms": 5,
+      "Area living room": 109,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 404 suID": "010031",
+      "parking lot A12 suID": "010032"
+    },
+    {
+      "id": "4-05",
+      "Apartment ID": 405,
+      "Number of Rooms": 5,
+      "Area living room": 130,
+      "SpaceType": "Private",
+      "Balcony":"Yes",
+      "Status": "InUse",
+      "Apartment 405 suID": "010033",
+      "parking lot A13 suID": "010034"
+    },
+    {
+      "id": "top-00",
+      "Name": "Roof",
+      "Area": 580,
+      "SpaceType": "Public",
+      "Roof suID": "010002"
+    },
+    {
+      "id": "lift-00",
+      "Name": "Stairs,Elevators",
+      "NumberOfLayers": "B2;B1;F1;F2;F3;F4",
+      "SpaceType": "Public",
+      "Stairs,Elevators suID": "010003"
+    },
+    {
+      "id": "B1-00",
+      "Name": "B1",
+      "SpaceType": "Public",
+      "B1 suID": "010035"
+    },
+    {
+      "id": "B2-00",
+      "Name": "B2",
+      "SpaceType": "Public",
+      "B2 suID": "010036"
+    },
+    {
+      "id": "Parcel-00",
+      "Name": "Parcel",
+      "SpaceType": "Public",
+      "parcel suID": "010001"
+    },
+    {
+      "id": "1-Entrance",
+      "Name": "Entrance",
+      "SpaceType": "Public",
+      "Entance suID": "010037"
+    }
+  ]
+}

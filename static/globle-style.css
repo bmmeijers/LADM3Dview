@@ -1,0 +1,126 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #000000;
+  font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+  font-weight: bold;
+}
+/*::-webkit-scrollbar {*/
+/*  display: none; !* Chrome Safari *!*/
+/*}*/
+
+
+#Container{
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+
+#juanLianslider {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  background-color: #d3d3d3;
+  width: 5px;
+  height: 100%;
+  z-index: 9999;
+}
+
+#juanLianslider:hover {
+  cursor: ew-resize;
+}
+
+.none-select-font{
+  /* 禁止选中文字 */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.right-tooltips-class{
+  position: absolute;
+  top: 200px;
+  left: 40px;
+  height: 1px;/* 跟Container.margin-top对应 */
+  width: 1px;
+  z-index: 9999;
+  background-color: transparent;
+}
+
+.box-header-tittle-class{
+  padding-left: 15px;
+  line-height: 53px;
+  font-size: 20px;
+}
+.header-class{
+  background-color: #ffffff;
+  height: 50px;
+  border-radius: 5px;
+}
+.box-close-class{
+  position: absolute;
+  right: 17px;
+  top: 17px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.box-close-class:hover{
+  cursor: pointer;
+  background-color: rgb(255, 143, 68);
+}
+
+.box-content-class{
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  /*background-color: rgb(255,251,240);*/
+  border-radius: 5px;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+}
+.clearfix:after {
+  clear: both
+}
+
+.el-divider--horizontal {
+  margin: 0 !important;
+}
+
+.el-card__body, .el-main {
+  padding: 10px !important;
+}
+
+.el-tooltip__popper.is-dark {
+  z-index: 999999999999 !important;
+}
+.el-table::before {
+  height: 0px !important;
+}
+.el-carousel__arrow--right, .el-notification.right {
+  z-index: 999999999999 !important;
+}
+.el-loading-mask.is-fullscreen {
+  color: #0088ff !important;
+  z-index: 999999 !important;
+}
+.el-picker-panel {
+  z-index: 99999 !important;
+}
